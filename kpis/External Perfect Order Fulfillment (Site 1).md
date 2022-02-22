@@ -7,8 +7,8 @@ We measure the orders that have been perfectly fulfilled. In this context, 'perf
 `Number with perfect fulfilled orders / Overall number of orders`
 
 ## Data
-* [On Time Delivery](On Time Delivery.md)
-* [Errors in Orders](Errors in Orders.md)
+* [On Time Delivery](OnTimeDelivery.md)
+* [Errors in Orders](ErrorsinOrders.md)
 
 ## Need for additional Input / Interpretation
 * tbd
