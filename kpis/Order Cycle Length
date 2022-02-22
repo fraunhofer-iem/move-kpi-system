@@ -1,0 +1,13 @@
+# Order Cycle Length
+
+## Description
+We measure the average time period between order entry and goods receipt for calculating the order cycle length. Orders are taken into account that are scheduled or unscheduled (exclduing those that are delivered as express orders).
+
+## Calculation
+`(Time goods receipt - time order entry) / Overall number of orders`
+
+## Data
+* [tbd](tbd.md)
+
+## Need for additional Input / Interpretation
+* tbd
