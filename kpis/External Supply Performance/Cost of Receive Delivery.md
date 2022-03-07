@@ -1,4 +1,4 @@
-# Cost of Receive Product
+# Cost of Receive Delivery
 
 ## Description
 We measure the sum of the costs associated with receiving product.
