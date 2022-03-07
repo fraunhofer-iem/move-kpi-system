@@ -8,7 +8,7 @@ We measure the fully delivered orders.
 
 ## Data
 * Delivery Item Accuracy
-*Delivery Quantity Accuracy
+* Delivery Quantity Accuracy
 
 
 ## Need for additional Input / Interpretation
