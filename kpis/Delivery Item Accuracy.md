@@ -1,7 +1,7 @@
 # Delivery Item Accuracy
 
 ## Description
-We measure the percentage of orders where all ordered items actually arrive and no additional or missing items are delivered.
+We measure the percentage of orders where all ordered items actually arrived are the right items.
 
 ## Calculation
 `right orders / all orders`
