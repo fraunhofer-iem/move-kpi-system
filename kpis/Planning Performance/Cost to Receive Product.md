@@ -1,7 +1,7 @@
 # Cost to Receive Product
 
 ## Description
-We measure the number of contracts concluded with the supplier code of conduct.
+We measure the costs associated with receiving product.
 
 ## Calculation
 `The sum of the costs associated with receiving product`
