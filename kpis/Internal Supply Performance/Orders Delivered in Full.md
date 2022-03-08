@@ -7,7 +7,7 @@ We measure the fully delivered orders.
 * tbd
 
 ## Data
-* [Delivery Item Accuracy](Delivery Item Accuracy.md)
+* [Delivery Item Accuracy] (Delivery Item Accuracy.md)
 * Delivery Quantity Accuracy
 
 
