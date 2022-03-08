@@ -1,18 +1,13 @@
 # Throughput
 
 ## Description
-We measure how sustainable a supplier is.
+We measure the throughput in production per production unit or per conveyors.
 
 ## Calculation
-* tbd Amount Units / Time
+`Amount Units / Time`
 
 ## Data
-transportation ratio
-total miles
-Emmissions per Unit
-Regional products
-Recyling
-Water consumption
+* tbd
 
 ## Need for additional Input / Interpretation
 * tbd
