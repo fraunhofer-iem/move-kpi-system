@@ -1,7 +1,7 @@
 # Number of certificates
 
 ## Description
-We measure the number of certificates that are issued for sustainability.
+Various organizations award sustainability certificates to companies. The number of these certificates allows statements to be made about the sustainability of the company.
 
 ## Calculation
 `Number of certificates`
