@@ -8,7 +8,7 @@ We measure the fully delivered orders.
 
 ## Data
 * [Delivery Item Accuracy](https://github.com/fraunhofer-iem/move-kpi-system/blob/a7fe7870d03065a9226c862016c2ca662cb40753/kpis/Internal%20Supply%20Performance/Delivery-Item-Accuracy.md)
-* Delivery Quantity Accuracy
+* [Delivery Quantity Accuracy](https://github.com/fraunhofer-iem/move-kpi-system/blob/a7fe7870d03065a9226c862016c2ca662cb40753/kpis/Internal%20Supply%20Performance/Delivery_Quantity_Accuracy.md)
 
 
 ## Need for additional Input / Interpretation
