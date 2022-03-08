@@ -7,7 +7,7 @@ We measure how well the utilization of the transport vehicles within the company
 `= Fill rate`
 
 ## Data
-* Fill rate
+* [Fill rate](https://github.com/fraunhofer-iem/move-kpi-system/blob/8e7e39ea5cf7f5672c576646432e897f8cb93e38/kpis/Internal%20Supply%20Performance/Fillrate_Warehouse.md)
 
 ## Need for additional Input / Interpretation
 * tbd
