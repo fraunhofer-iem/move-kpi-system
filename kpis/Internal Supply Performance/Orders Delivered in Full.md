@@ -7,7 +7,7 @@ We measure the fully delivered orders.
 * tbd
 
 ## Data
-* kpis/Internal Supply Performance/Delivery Item Accuracy.md
+* [kpis/Internal Supply Performance/Delivery Item Accuracy.md]
 * Delivery Quantity Accuracy
 
 
