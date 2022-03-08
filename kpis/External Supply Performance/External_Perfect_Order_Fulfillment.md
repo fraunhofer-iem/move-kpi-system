@@ -7,8 +7,8 @@ We measure the orders that have been perfectly fulfilled by an external supplier
 `Number with perfect fulfilled orders / Overall number of orders`
 
 ## Data
-* [On Time Delivery](OnTimeDelivery.md)
-* [Errors in Orders](ErrorsinOrders.md)
+* [On Time Delivery](https://github.com/fraunhofer-iem/move-kpi-system/blob/aab9c7602d0cdb89672a9104fc7d14b001715c40/kpis/External%20Supply%20Performance/On_Time_Delivery.md)
+* [Errors in Orders](https://github.com/fraunhofer-iem/move-kpi-system/blob/aab9c7602d0cdb89672a9104fc7d14b001715c40/kpis/External%20Supply%20Performance/Errors_in_Orders.md)
 
 ## Need for additional Input / Interpretation
 * tbd
