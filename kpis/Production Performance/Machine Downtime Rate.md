@@ -1,7 +1,7 @@
 # Machine Downtime Rate
 
 ## Description
-We measure how productive thw production is by the ratio of production losses to actual production.
+We measure the ratio of downtime and worktime to evaluate the efficiency of the production.
 
 ## Calculation
 `Downtime / (Downtime + Worktime)`
