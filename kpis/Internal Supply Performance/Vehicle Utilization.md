@@ -4,7 +4,7 @@
 We measure how well the utilization of the transport vehicles within the company is.
 
 ## Calculation
-'= Fill rate'
+`= Fill rate`
 
 ## Data
 * Fill rate
