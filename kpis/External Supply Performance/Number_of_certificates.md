@@ -6,8 +6,13 @@ Various organizations award sustainability certificates to companies. The number
 ## Calculation
 `Number of certificates`
 
+## Scope of applicability
+* Sustainability
+* Social
+
 ## Data
-* tbd
+* Data from Supplier
+* Own Certificates
 
 ## Need for additional Input / Interpretation
 * tbd
