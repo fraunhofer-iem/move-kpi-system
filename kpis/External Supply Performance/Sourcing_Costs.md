@@ -3,6 +3,9 @@
 ## Description
 We measure We measure the level of external sourcing costs.
 
+## Scope of applicability
+If the costs cannot be broken down, the cost representation can be displayed directly on this level.
+
 ## Calculation
 * tbd
 
