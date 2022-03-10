@@ -11,7 +11,7 @@ Audits at the customer's site to check processes, requirements, guidelines regar
 * Internal audits of own production
 
 ## Data
-* tbd
+* Number of Audits
 
 ## Need for additional Input / Interpretation
-* tbd
+* If the audits should be differentiated with regard to their content, the subject must always be considered.
