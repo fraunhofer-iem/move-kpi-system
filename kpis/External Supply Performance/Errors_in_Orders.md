@@ -6,8 +6,16 @@ We measure the number of defective and incorrectly executed orders in the incomi
 ## Calculation
 `Number with errors in orders / Overall number of orders`
 
+## Scope of applicability
+* General errors
+* Transport error
+* Errors in production
+* Error in quality
+* Supplier error
+* Error in packaging
+
 ## Data
-* [tbd](tbd.md)
+* Data from the quality management
 
 ## Need for additional Input / Interpretation
 * tbd
