@@ -1,7 +1,7 @@
 # Customer complaints
 
 ## Description
-We measure how many customer complaints are received, i.e. how satisfied customers are with the shipping and the products.
+On the basis of the customer complaints, the satisfaction of the customers with the service, the product and the transport can be read out.
 
 ## Calculation
 `Amount of complaints`
