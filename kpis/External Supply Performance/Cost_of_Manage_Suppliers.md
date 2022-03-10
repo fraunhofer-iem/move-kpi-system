@@ -9,6 +9,7 @@ To calculate the total costs, the administrative costs for cooperation with supp
 ## Scope of applicability
 * For our own suppliers
 * For the subsidiaries
+
 If the costs cannot be broken down, the cost representation can be displayed directly one level higher.
 
 ## Data
