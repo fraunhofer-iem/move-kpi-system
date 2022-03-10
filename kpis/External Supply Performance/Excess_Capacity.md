@@ -6,8 +6,12 @@ If there is a regular query of the capacities of the external suppliers, not onl
 ## Calculation
 `excess capacity / full capacity`
 
+## Scope of applicability
+* Supplier
+* Plant
+
 ## Data
-* [tbd](tbd.md)
+* Data from suppliers
 
 ## Need for additional Input / Interpretation
 * An interface to the external supplier must be available to query excess capacities.  
