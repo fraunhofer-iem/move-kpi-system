@@ -6,6 +6,10 @@ We measure the number of orders that could be posted in the goods receipt on tim
 ## Calculation
 `Number with on time delivery / Overall number of orders`
 
+## Scope of applicability
+* Supplier
+* Plant
+
 ## Data
 * [tbd](tbd.md)
 
