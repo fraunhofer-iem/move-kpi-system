@@ -6,8 +6,13 @@ To calculate the total costs, the administrative costs for cooperation with supp
 ## Calculation
 `Sum of cost of manage Supplier`
 
+## Scope of applicability
+* For our own suppliers
+* For the subsidiaries
+If the costs cannot be broken down, the cost representation can be displayed directly one level higher.
+
 ## Data
-* tbd
+* Cost breakdown
 
 ## Need for additional Input / Interpretation
 * tbd
