@@ -6,8 +6,11 @@ The Supplier code of conduct specifies the extent to which the supplier is requi
 ## Calculation
 `Number of contracts with supplier code of conduct`
 
+## Scope of applicability
+* Contracts with suppliers
+
 ## Data
-* tbd
+* Number of contracts with supplier code of conduct
 
 ## Need for additional Input / Interpretation
-* tbd
+* overview of the contracts
