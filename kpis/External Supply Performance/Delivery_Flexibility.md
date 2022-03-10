@@ -6,8 +6,13 @@ We measure the flexibility of an external supplier by indicating the extent to w
 ## Calculation
 `Number of unplanned orders fulfilled by supplier / Overall number of orders fulfilled by supplier`
 
+## Scope of applicability
+* Suppliers
+* Own factory
+
 ## Data
-* tbd
+* [Order Cycle-Time](https://github.com/fraunhofer-iem/move-kpi-system/blob/4487e9dcea9f691ef6aa0e0965acd0ecfb5ae95f/kpis/External%20Supply%20Performance/Order_Cycle-Time.md)
+* [Excess Capacity] (https://github.com/fraunhofer-iem/move-kpi-system/blob/4487e9dcea9f691ef6aa0e0965acd0ecfb5ae95f/kpis/External%20Supply%20Performance/Excess_Capacity.md)
 
 ## Need for additional Input / Interpretation
 * tbd
