@@ -15,7 +15,7 @@ We measure the number of defective and incorrectly executed orders in the incomi
 * Error in packaging
 
 ## Data
-* Data from the quality management
+* Data of the department
 
 ## Need for additional Input / Interpretation
 * tbd
