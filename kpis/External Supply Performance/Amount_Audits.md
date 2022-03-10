@@ -6,7 +6,7 @@ Audits at the customer's site to check processes, requirements, guidelines regar
 ## Calculation
 `Number of Audits`
 
-# Scope of applicability
+## Scope of applicability
 * Supplier audits to ensure quality
 * Internal audits of own production
 
